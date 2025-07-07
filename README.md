@@ -24,6 +24,17 @@ Kullanıcıların JSON dosyasından alınan ürün verilerini görsel olarak inc
 
 ---
 
+
+
+## Canlı Sayfa Bağlantısı
+
+https://renartstaj.onrender.com
+
+
+## Proje videosu
+
+
+
 ## 📸 Arayüz Görüntüsü
 
 
