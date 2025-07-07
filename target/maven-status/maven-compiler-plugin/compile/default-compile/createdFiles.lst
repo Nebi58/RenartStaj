@@ -1,0 +1,10 @@
+tr\edu\duzce\mf\bm\renart\dao\ProductDAO$1.class
+tr\edu\duzce\mf\bm\renart\service\ProductService.class
+tr\edu\duzce\mf\bm\renart\service\LlmService.class
+tr\edu\duzce\mf\bm\renart\controller\ProductController.class
+tr\edu\duzce\mf\bm\renart\dao\ProductDAO.class
+tr\edu\duzce\mf\bm\renart\model\ProductImage.class
+tr\edu\duzce\mf\bm\renart\config\AppConfig.class
+tr\edu\duzce\mf\bm\renart\model\Product.class
+tr\edu\duzce\mf\bm\renart\config\WebAppInitializer.class
+tr\edu\duzce\mf\bm\renart\config\WebConfig.class
